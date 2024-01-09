@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['Earphone', 'Headphone', 'Neckband', 'airpods', 'watch']
+
+roboflow:
+  workspace: ginger-ojdx6
+  project: earphone-detection-75qzd
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ginger-ojdx6/earphone-detection-75qzd/dataset/1
