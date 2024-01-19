@@ -18,7 +18,7 @@ The model is trained on a custom dataset to accurately identify earphone usage s
    git clone https://github.com/bsaisoumith/Driver-Earphone-Detection-using-YOLOv5
    
 2. Navigate to the project directory:
-   cd driver-earphone-detection-yolov5
+   cd Driver-Earphone-Detection-using-YOLOv5
 
 3. Install the required dependencies:
    pip install -r requirements.txt
